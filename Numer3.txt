@@ -1,2 +1,3 @@
-Halló Heimur
+HALLÓ HEIMUR
 Hello World
+Hallo Welt
